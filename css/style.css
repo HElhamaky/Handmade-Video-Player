@@ -50,13 +50,13 @@ h1{
 }
 
 .controls .fa-play{
-  color: #28a745;
+  color: #dd12bb;
 }
 .controls .fa-stop{
-  color: #dc3545;
+  color: #f31127;
 }
 .controls .fa-pause{
-  color: #28a745;
+  color: #dd12bb;
 }
 
 .controls .timestamp{
