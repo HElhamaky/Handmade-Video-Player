@@ -22,7 +22,7 @@ h1 {
 .player {
   cursor: pointer;
   width: 60%;
-  background-color: #000;
+  background-color: #000 !important;
   border-radius: 10px 10px 0 0;
 }
 
